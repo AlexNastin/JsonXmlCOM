@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_75" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.st.json_xml.beans.JavaBeans1">
+    <void property="id">
+     <int>250278474</int>
+    </void>
+    <void property="javaObject">
+     <object class="by.st.json_xml.beans.JavaBeans2">
+      <void property="id">
+       <int>377905359</int>
+      </void>
+      <void property="name">
+       <string>Name</string>
+      </void>
+     </object>
+    </void>
+    <void property="mass">
+     <array class="byte" length="15">
+      <void index="0">
+       <byte>-10</byte>
+      </void>
+      <void index="1">
+       <byte>39</byte>
+      </void>
+      <void index="2">
+       <byte>92</byte>
+      </void>
+      <void index="3">
+       <byte>120</byte>
+      </void>
+      <void index="4">
+       <byte>85</byte>
+      </void>
+      <void index="5">
+       <byte>-99</byte>
+      </void>
+      <void index="6">
+       <byte>85</byte>
+      </void>
+      <void index="7">
+       <byte>-128</byte>
+      </void>
+      <void index="8">
+       <byte>-11</byte>
+      </void>
+      <void index="9">
+       <byte>-80</byte>
+      </void>
+      <void index="10">
+       <byte>-23</byte>
+      </void>
+      <void index="11">
+       <byte>-32</byte>
+      </void>
+      <void index="12">
+       <byte>-119</byte>
+      </void>
+      <void index="13">
+       <byte>-123</byte>
+      </void>
+      <void index="14">
+       <byte>65</byte>
+      </void>
+     </array>
+    </void>
+    <void property="name">
+     <string>Name</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.st.json_xml.beans.JavaBeans1">
+    <void property="id">
+     <int>1182041438</int>
+    </void>
+    <void property="javaObject">
+     <object class="by.st.json_xml.beans.JavaBeans2">
+      <void property="id">
+       <int>2056019031</int>
+      </void>
+      <void property="name">
+       <string>Name</string>
+      </void>
+     </object>
+    </void>
+    <void property="mass">
+     <array class="byte" length="15">
+      <void index="0">
+       <byte>-53</byte>
+      </void>
+      <void index="1">
+       <byte>59</byte>
+      </void>
+      <void index="2">
+       <byte>-17</byte>
+      </void>
+      <void index="3">
+       <byte>-38</byte>
+      </void>
+      <void index="4">
+       <byte>-42</byte>
+      </void>
+      <void index="5">
+       <byte>-50</byte>
+      </void>
+      <void index="6">
+       <byte>-25</byte>
+      </void>
+      <void index="7">
+       <byte>80</byte>
+      </void>
+      <void index="8">
+       <byte>113</byte>
+      </void>
+      <void index="9">
+       <byte>-85</byte>
+      </void>
+      <void index="10">
+       <byte>-37</byte>
+      </void>
+      <void index="11">
+       <byte>37</byte>
+      </void>
+      <void index="12">
+       <byte>43</byte>
+      </void>
+      <void index="13">
+       <byte>-17</byte>
+      </void>
+      <void index="14">
+       <byte>72</byte>
+      </void>
+     </array>
+    </void>
+    <void property="name">
+     <string>Name</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.st.json_xml.beans.JavaBeans1">
+    <void property="id">
+     <int>1936687149</int>
+    </void>
+    <void property="javaObject">
+     <object class="by.st.json_xml.beans.JavaBeans2">
+      <void property="id">
+       <int>232184541</int>
+      </void>
+      <void property="name">
+       <string>Name</string>
+      </void>
+     </object>
+    </void>
+    <void property="mass">
+     <array class="byte" length="15">
+      <void index="0">
+       <byte>10</byte>
+      </void>
+      <void index="1">
+       <byte>-94</byte>
+      </void>
+      <void index="2">
+       <byte>120</byte>
+      </void>
+      <void index="3">
+       <byte>94</byte>
+      </void>
+      <void index="4">
+       <byte>15</byte>
+      </void>
+      <void index="5">
+       <byte>-109</byte>
+      </void>
+      <void index="6">
+       <byte>-3</byte>
+      </void>
+      <void index="7">
+       <byte>118</byte>
+      </void>
+      <void index="8">
+       <byte>84</byte>
+      </void>
+      <void index="9">
+       <byte>-39</byte>
+      </void>
+      <void index="10">
+       <byte>-128</byte>
+      </void>
+      <void index="11">
+       <byte>-46</byte>
+      </void>
+      <void index="12">
+       <byte>-115</byte>
+      </void>
+      <void index="13">
+       <byte>-18</byte>
+      </void>
+      <void index="14">
+       <byte>-102</byte>
+      </void>
+     </array>
+    </void>
+    <void property="name">
+     <string>Name</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.st.json_xml.beans.JavaBeans1">
+    <void property="id">
+     <int>905041599</int>
+    </void>
+    <void property="javaObject">
+     <object class="by.st.json_xml.beans.JavaBeans2">
+      <void property="id">
+       <int>1400871572</int>
+      </void>
+      <void property="name">
+       <string>Name</string>
+      </void>
+     </object>
+    </void>
+    <void property="mass">
+     <array class="byte" length="15">
+      <void index="0">
+       <byte>-52</byte>
+      </void>
+      <void index="1">
+       <byte>51</byte>
+      </void>
+      <void index="2">
+       <byte>-70</byte>
+      </void>
+      <void index="3">
+       <byte>25</byte>
+      </void>
+      <void index="4">
+       <byte>-25</byte>
+      </void>
+      <void index="5">
+       <byte>-49</byte>
+      </void>
+      <void index="6">
+       <byte>-10</byte>
+      </void>
+      <void index="7">
+       <byte>42</byte>
+      </void>
+      <void index="8">
+       <byte>74</byte>
+      </void>
+      <void index="9">
+       <byte>24</byte>
+      </void>
+      <void index="10">
+       <byte>-41</byte>
+      </void>
+      <void index="11">
+       <byte>26</byte>
+      </void>
+      <void index="12">
+       <byte>-85</byte>
+      </void>
+      <void index="13">
+       <byte>-89</byte>
+      </void>
+      <void index="14">
+       <byte>68</byte>
+      </void>
+     </array>
+    </void>
+    <void property="name">
+     <string>Name</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
